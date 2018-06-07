@@ -1,0 +1,4 @@
+authors = ["Andy Ferris <andy.ferris@roames.com.au>"]
+name = "UnmanagedMemory"
+uuid = "4ef7ebf8-6a03-11e8-09da-130876a3fa01"
+version = "0.1.0"
